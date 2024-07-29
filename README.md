@@ -1,10 +1,10 @@
-Predictive Analysis on Trending YouTube Videos using Machine Learning
+# Predictive Analysis on Trending YouTube Videos using Machine Learning
 
-Overview
+## Overview
 
 In the digital era, platforms like YouTube are central to content consumption and interaction. This project focuses on predicting user engagement metrics such as comments and ratings on trending YouTube videos. By leveraging machine learning techniques, the goal is to provide valuable insights for content creators and platform administrators to optimize content strategies and enhance user experience.
 
-Dataset
+## Dataset
 
 The analysis is based on information from 10,000 popular YouTube videos uploaded within a specific timeframe. 
 
